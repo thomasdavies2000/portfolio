@@ -1,0 +1,25 @@
+#home{
+    width: 60%;
+    padding-top: 70px;
+}
+
+
+#me{
+    width: 300px;
+    max-width: 80%;
+    display: block;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+#hello{
+    text-align: left;
+}
+
+.home-list{
+    list-style-type: disc;
+}

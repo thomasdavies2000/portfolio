@@ -1,0 +1,17 @@
+body{
+    background: rgb(8, 8, 8);
+}
+
+
+h1, h4, p, a {
+    text-decoration: none;
+    color: white;
+    font-family: Rubik;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Quicksand:wght@500&family=Roboto+Condensed&family=Roboto:wght@300&family=Rubik:wght@300&display=swap');

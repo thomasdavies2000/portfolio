@@ -1,0 +1,52 @@
+.project{
+    padding-bottom: 200px;
+    
+    
+}
+#project{
+    padding-top: 70px;
+}
+h4{
+    text-align: center;
+    
+}
+hr{
+    color: white;
+}
+#tree{
+    width: 500px;
+    max-width: 50%;
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%/10%;
+}
+
+#subtitle{
+    color: gray;
+}
+#snooker{
+    width: 100%;
+    padding-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ninedartvid{
+    color: grey;
+    text-decoration: underline;
+}
+
+#snooker_project, #darts_project{
+    padding-bottom: 60px;
+    display: block;
+    
+}
+
+#projectlink{
+text-decoration: underline;
+}
+
