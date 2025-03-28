@@ -13,7 +13,7 @@ const Home = () => {
         <hr></hr>
         <div class="row">
         <div class="col-sm-7">
-          <h5 id="subtitle">I'm Tom, a 23 year old Computer Science graduate. Currently working as a Data Engineer for the
+          <h5 id="subtitle">I'm Tom, a 24 year old Computer Science graduate. Currently working as a Data Engineer for the
                             UK Defence Solutions Centre.
   
             
